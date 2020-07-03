@@ -20,3 +20,10 @@ pip install -r requirements
 ``
 python train --case case14
 ``
+## License information
+
+Copyright 2019-2020 RTE and INRIA (France)
+
+RTE: http://www.rte-france.com
+INRIA: https://www.inria.fr/
+This Source Code is subject to the terms of the GNU Lesser General Public License v3.0. If a copy of the LGPL-v3 was not distributed with this file, You can obtain one at https://www.gnu.org/licenses/lgpl-3.0.fr.html.
