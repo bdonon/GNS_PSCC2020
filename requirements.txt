@@ -1,6 +1,6 @@
 tqdm
 networkx
-tensorflow==1.14
+tensorflow==1.15.4
 pypower
 scipy
 pandas
